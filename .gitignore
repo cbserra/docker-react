@@ -105,3 +105,6 @@ dist
 
 # VS Code
 *.code-workspace
+
+# Build files
+build
