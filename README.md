@@ -1,4 +1,4 @@
-# How to use Docker to dockerize a React app,Spring Boot and Nginx reverse proxy - step by step tutorial
+# docker-react
 
 ## Description
 
