@@ -7,7 +7,9 @@
     "@testing-library/react": "^13",
     "@testing-library/user-event": "^14",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "shelljs": "^0.8.3",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "node scripts/start.js",
@@ -31,7 +33,6 @@
     ]
   },
   "devDependencies": {
-    "react-scripts": "^5.0.1",
-    "shelljs": "^0.8.3"
+    
   }
 }
